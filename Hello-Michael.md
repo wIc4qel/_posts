@@ -14,7 +14,7 @@ Try to open this in atom.
 ---
 #### Dillinger不支持中文
 ---  
-CRLF-->LF
+CRLF-->LF-->CRLF
 ---
 ---
 1. 蓝标
