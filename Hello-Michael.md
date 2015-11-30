@@ -14,6 +14,9 @@ Try to open this in atom.
 ---
 #### Dillinger不支持中文
 ---  
+CRLF-->LF
+---
+---
 1. 蓝标
 ===
 2. 十周工作计划  
