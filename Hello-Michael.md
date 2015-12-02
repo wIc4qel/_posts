@@ -6,7 +6,15 @@ Ten Weeks Plan
 This Dillinger do not support Zh-CN???  
 Why?
 Try to open this in atom.  
- # Dillinger不支持中文  
+ # Dillinger不支持中文
+
+这行应该是小标题啊  
+---
+ **尝试尝试奇怪的东西**  
+ *好有意思*
+ >哈哈哈
+  >>  #看看源码，试试改下，尤其是组合键的时候，应该怎么处理？  
+ # #_#!
 
 CRLF-->LF-->CRLF
 1. 蓝标
