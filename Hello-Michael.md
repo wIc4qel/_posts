@@ -1,26 +1,18 @@
-title: Hello Michael
-date: 2015-11-29 21:39:40
-tags:蓝标;十周工作计划;
-
----  
+title: Hello Michael  
+date: 2015-11-29 21:39:40  
+tags:蓝标;十周工作计划;  
 Ten Weeks Plan
 ===
-
-This Dillinger do not support Zh-CN???
+This Dillinger do not support Zh-CN???  
 Why?
-
----  
 Try to open this in atom.  
----
-#### Dillinger不支持中文
----  
+ # Dillinger不支持中文  
+
 CRLF-->LF-->CRLF
----
----
 1. 蓝标
 ===
-2. 十周工作计划  
-===  
+2. 十周工作计划
+===
 //各项同时进行，序号为优先级
 + 2.1 总结过去的项目，做工具类
 + 2.2 整理书签（android相关 其他先不予考虑）
